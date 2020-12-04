@@ -6,7 +6,7 @@
 * trojan-go.sh 是从V2Ray的[install-release.sh](https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh)的安装程序基础上改写。 
 
 ## 安装trojan-go
-# bash <(curl -Ls https://raw.githubusercontent.com/proxysu/shellscript/master/trojan-go.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/proxysu/shellscript/master/trojan-go.sh)
 
 trojan-go.sh安装位置  
  /usr/local/bin/trojan-go  
