@@ -5,8 +5,8 @@
 * naive-quickstart.sh 是从[Trojan-quickstart.sh](https://github.com/trojan-gfw/trojan-quickstart)的基础上改写-------已弃用。  
 * trojan-go.sh 是从V2Ray的[install-release.sh](https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh)的安装程序基础上改写。 
 
-## 安装trojan-go
-bash <(curl -Ls https://raw.githubusercontent.com/proxysu/shellscript/master/trojan-go.sh)
+安装trojan-go
+# bash <(curl -Ls https://raw.githubusercontent.com/proxysu/shellscript/master/trojan-go.sh)
 
 trojan-go.sh安装位置  
  /usr/local/bin/trojan-go  
